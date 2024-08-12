@@ -1,1 +1,1 @@
-TOKEN = '6612899468:AAG-4ZYOay1Oi2OrEaXanedtpkySJP7OS0w'  # токен бота
+TOKEN = 'your TOKEN for bot from Telegram'  # токен бота
